@@ -1,12 +1,14 @@
-### Hi there 👋
+### Greetings 👋
 
-- My name is Leo Gabrielsson, a student at [TE4 Umeå](https://github.com/TE4-Umea) where me and my peers study web development and programming.
+- I'm Leo Gabrielsson, a young man hailing from Sweden 🇸🇪 and currently studying at [TE4 Umeå](https://github.com/TE4-Umea) where me and my peers work to better our understanding of web development and programming.
 - I myself focus more one the web development part of the curriculum.
+- My programming languages are: Java and JavaScript, the markup language HTML, and CSS (+ Nunjucks). I MUCH prefer to work in HTML, CSS and javaScript than to work in Java.
 - I'm fluent in both Swedish and English.
-- My programming languages are: Java and JavaScript, the markup language HTML, and CSS (+ Nunjucks).
+- Will add a link to my portfolio when I'm done with it
+<br>
+<br>
 
-
-- ⚡ Fun fact: Rats are basically small dogs
+- 🐀: Fun fact: Rats are basically small dogs.
 <!--
 **LeoGabrielsson/LeoGabrielsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
