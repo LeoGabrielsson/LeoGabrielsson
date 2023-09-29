@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- My name is Leo Gabrielsson, a student at [TE4 Umeå](https://github.com/TE4-Umea) where me and my peers study web development and programming.
+- I myself focus more one the web development part of the curriculum.
+- I'm fluent in both Swedish and English.
+- My programming languages are: Java and JavaScript, the markup language HTML, and CSS (+ Nunjucks).
+
+
 - ⚡ Fun fact: Rats are basically small dogs
 <!--
 **LeoGabrielsson/LeoGabrielsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
