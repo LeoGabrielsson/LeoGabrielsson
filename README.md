@@ -6,7 +6,7 @@
 - I'm fluent in both Swedish and English.
 - Will add a link to my portfolio when I'm done with it
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoGabrielsson&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=LeoGabrielsson&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=FFD700&icon_color=FFD700&text_color=FCFBF9&bg_color=0,000000,724B9B" alt="my Github Stats"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeoGabrielsson&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 <img src="https://widgetbite.com/stats/{LeoGabrielsson}" alt="watching_count" />
